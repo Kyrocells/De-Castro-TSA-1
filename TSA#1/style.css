@@ -1,0 +1,240 @@
+/*Type Styles*/
+
+h3 {
+  color: #16558F;
+  font-size: 25px;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.resume {
+  position: relative;
+  border: 3px solid #333;
+  padding: 20px;
+  width: 1000px;
+  height: 1070px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+/*Heading Styles*/
+
+#details{
+  padding-left:45px;
+}
+
+#details p{
+  color: #666;
+  font-size: 25px;
+  margin-top: 0;
+  margin-left: 52px;
+}
+
+#profile-picture {
+  margin: 10px;
+  margin-left: 100px;
+  z-index: 1;
+}
+
+#name{
+  color: #333;
+  font-size: 48px;
+  margin: 0;
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+#header {
+  padding-right: 20px;
+  display:flex;
+}
+
+/* Information Section Styles */
+
+#information p{
+  margin: 0px;
+}
+
+#information{
+  margin-left: 460px;
+}
+
+#obj{
+  display: flex;
+}
+
+#obj hr{
+    height:3px;
+    width: 100%;
+    border-width:0;
+    background-color:#16558F;
+    margin-top: 35px;
+}
+
+#obj h3{
+  margin-top:0;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+#education{
+  display:flex;
+}
+
+#education h3{
+  margin-top:0;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+#education hr{
+  height:3px;
+  width: 100%;
+  border-width:0;
+  background-color:#16558F;
+  margin-top: 35px;
+}
+
+.school-year{
+  color:#0583d2;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.school-name{
+  color:black;
+  padding-top: 5px;
+}
+
+#char-ref{
+  display: flex;
+}
+
+#char-ref hr{
+  height:2px;
+  width: 100%;
+  border-width:0;
+  background-color:#16558F;
+  margin-top: 35px;
+}
+
+#char-ref h3{
+  margin-top:0;
+  padding-top: 20px;
+  padding-right: 40px;
+}
+
+.ref-name{
+  font-weight: bold;
+  color:#0583d2;
+  font-size: 20px;
+}
+
+#bar{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 70px;
+  width: 350px;
+  background-color:#4F77AA;
+}
+
+#info-bar p{
+  color: white;
+  font-size: 18px;
+  padding-left: 55px;
+  margin:0;
+  margin-top:10px;
+}
+
+#info-bar h3{
+  color: white;
+  font-weight: bold;
+}
+
+#contact-me{
+  padding-top:312px;
+}
+
+#contact-me hr{
+  height:2px;
+  width: 80%;
+  border-width:0;
+  background-color:#16558F;
+}
+
+#contact-me h3{
+  padding-left: 105px;
+  margin:0;
+}
+
+#skill-info hr{
+  height:3px;
+  width: 80%;
+  border-width:0;
+  background-color:#16558F;
+}
+
+#skill-info h3{
+  padding-top:50px;
+  padding-left: 140px;
+  margin:0;
+}
+
+#skill-info li{
+  color: white;
+  font-size: 18px;
+  margin:0;
+  padding-top:5px;
+}
+
+#skill-info ul{
+  padding-left:140px;
+}
+
+#seminar hr{
+  height:2px;
+  width: 80%;
+  border-width:0;
+  background-color:#16558F;
+}
+
+#seminar h3{
+  padding-top:20px;
+  padding-left: 75px;
+  margin:0;
+}
+
+#seminar p{
+  padding-top: 5px;
+  padding-left: 75px;
+  margin:0;
+}
+
+.seminar-title{
+  font-weight: bold;
+}
+
+.seminar-date{
+  padding-bottom:20px;
+  color: #666;
+}
+
+.mode-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: gray;
+  color: black;
+  border: black;
+  border-radius: 5px;
+}
+
